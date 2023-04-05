@@ -1,0 +1,1 @@
+{'article': <Article: nnnnnn>, 'tag': <Tag: Наука>, 'is_main': False, 'id': <Scope: Scope object (36)>, 'DELETE': False}
